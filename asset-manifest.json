@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/css/main.18871c4a.css",
+    "main.js": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/js/main.64b33e96.js",
+    "static/js/453.b39db90f.chunk.js": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/js/453.b39db90f.chunk.js",
+    "index.html": "/%3Chttps://astro215.github.io/fs_lab_6%3E/index.html",
+    "main.18871c4a.css.map": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/css/main.18871c4a.css.map",
+    "main.64b33e96.js.map": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/js/main.64b33e96.js.map",
+    "453.b39db90f.chunk.js.map": "/%3Chttps://astro215.github.io/fs_lab_6%3E/static/js/453.b39db90f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18871c4a.css",
+    "static/js/main.64b33e96.js"
+  ]
+}
