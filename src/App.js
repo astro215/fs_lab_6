@@ -7,7 +7,7 @@ import LandingPage from './component/LandingPage.js';
 function App() {
   return (
     <div className="App">
-        <Router>
+        <Router basename="/fs_lab_6" >
             <Routes>
                 <Route path="/signup" element={<Signup />} />
                 <Route path='/login' element={<Login />} />
