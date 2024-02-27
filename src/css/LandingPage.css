@@ -1,0 +1,18 @@
+button {
+    background-color: #45a049;
+    color: white;
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    display: block; /* Set buttons to block level elements */
+}
+
+button:hover {
+    background-color: green;
+}
+
+div {
+    margin-top: 10px;
+}
